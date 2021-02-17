@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "정찬효"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **App Developer**. "
+  bio              : "This blog is currently unmaintained. "
   location         : "Seoul, Korea"
   email            : android-dev@kakao.com
   links:
